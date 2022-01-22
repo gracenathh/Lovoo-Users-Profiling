@@ -1,6 +1,6 @@
 # Female Users’ Behavioural Segmentation
 
-The project was done as a part of self practice to hone my Data Science skills. Project involved Exploratory Data Analysis (EDA) and segmentation (k-Means clustering) in Python 3, data pivotting in Excel, and users' profiling presentation (including visualisation, some recommendations) in Powerpoint.
+The project was done as a part of self practice to hone my Data Science skills. Project involved Exploratory Data Analysis (EDA) and segmentation (k-Means clustering) in Python 3, data pivotting in Excel, and users' profiling presentation (including visualisation, some recommendations) in Powerpoint on a dating app's users data (Lovoo).
 
 <img src="/readme_img/1.png" alt="What is Lovoo?"/>
 <img src="/readme_img/2.png" alt="Users' Demographic"/>
